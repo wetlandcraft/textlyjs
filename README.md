@@ -1,2 +1,2 @@
 # textlyjs
-An HTML5 Javascript library to beautify the trxt looks.
+An HTML5 Javascript library to beautify the text looks.
